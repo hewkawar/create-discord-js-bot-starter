@@ -1,12 +1,9 @@
 {
   "name": "create-discord-js-bot-starter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "NPX to create discord.js Bot",
   "bin": {
     "create-discord-js-bot-starter": "bin/cli.js"
-  },
-  "scripts": {
-    "publish": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
